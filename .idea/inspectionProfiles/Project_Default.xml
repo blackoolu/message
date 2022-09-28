@@ -1,0 +1,71 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E305" />
+          <option value="E122" />
+          <option value="E302" />
+          <option value="E303" />
+          <option value="E402" />
+          <option value="E262" />
+          <option value="E261" />
+          <option value="E501" />
+          <option value="E266" />
+          <option value="W391" />
+          <option value="E265" />
+          <option value="E127" />
+          <option value="E306" />
+          <option value="E117" />
+          <option value="W292" />
+          <option value="E271" />
+          <option value="E114" />
+          <option value="E111" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="print" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="trigonometry.lenght" />
+          <option value="trigonometry.radians" />
+          <option value="Calculator.angle" />
+          <option value="draft02.screen" />
+          <option value="draft02.white" />
+          <option value="draft02.message_to_screen" />
+          <option value="draft02.smallfont" />
+          <option value="draft02.medfont" />
+          <option value="draft02.largefont" />
+          <option value="draft02.text_objects" />
+          <option value="draft02.intro" />
+          <option value="draft02.blit" />
+          <option value="draft02.gameDisplay" />
+          <option value="draft02.event" />
+          <option value="guess.random" />
+          <option value="quadrant.coordinate" />
+          <option value="word_puzzle.checkLetter" />
+          <option value="pong.time" />
+          <option value="draft02.Game.play" />
+          <option value="float.time" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
